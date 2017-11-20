@@ -1,0 +1,21 @@
+{
+	"name": "Amazon Noise Injector",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "Injects noise into Amazon with a series of random searches",
+	"icons": {"16": "noise_16.png"},
+	"background": {
+		"scripts": ["background.js"]
+	},
+	"browser_action": {
+		"default_title": "Amazon Noise Injector",
+		"default_icon": "noise_16.png"
+	}, 
+	"permissions": [
+		"background",
+		"tabs",
+		"http://*/*", 
+  		"https://*/*",
+		"https://www.amazon.com/*"
+	]
+}
