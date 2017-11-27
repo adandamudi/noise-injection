@@ -1,24 +1,24 @@
 {"profile1":[
-    {"searchQuery":"bose speaker", "timeOnSearch":3000, "itemtoSelect":41},
-    {"searchQuery":"diapers", "timeOnSearch":4500, "itemtoSelect":8},
-    {"searchQuery":"pencils", "timeOnSearch":2150, "itemtoSelect":3},
-    {"searchQuery":"soda", "timeOnSearch":6902, "itemtoSelect":20},
-    {"searchQuery":"shirts", "timeOnSearch":30, "itemtoSelect":18},
-    {"searchQuery":"amazon basics", "timeOnSearch":6808, "itemtoSelect":4}
-], 
+    {"searchQuery":"bose speaker", "itemtoSelect":41},
+    {"searchQuery":"diapers", "itemtoSelect":8},
+    {"searchQuery":"pencils", "itemtoSelect":3},
+    {"searchQuery":"soda", "itemtoSelect":20},
+    {"searchQuery":"shirts", "itemtoSelect":18},
+    {"searchQuery":"amazon basics", "itemtoSelect":4}
+],
  "profile2":[
-    {"searchQuery":"bluray player", "timeOnSearch":7481, "itemtoSelect":41},
-    {"searchQuery":"nintendo switch", "timeOnSearch":7181, "itemtoSelect":49},
-    {"searchQuery":"water", "timeOnSearch":2639, "itemtoSelect":26},
-    {"searchQuery":"fruit", "timeOnSearch":10, "itemtoSelect":36},
-    {"searchQuery":"pants", "timeOnSearch":3305, "itemtoSelect":40},
-    {"searchQuery":"colored pencils", "timeOnSearch":7965, "itemtoSelect":84}
+    {"searchQuery":"bluray player", "itemtoSelect":41},
+    {"searchQuery":"nintendo switch", "itemtoSelect":49},
+    {"searchQuery":"water", "itemtoSelect":26},
+    {"searchQuery":"fruit", "itemtoSelect":36},
+    {"searchQuery":"pants", "itemtoSelect":40},
+    {"searchQuery":"colored pencils", "itemtoSelect":84}
 ],
  "profile3":[
-    {"searchQuery":"stylus", "timeOnSearch":4624, "itemtoSelect":41},
-    {"searchQuery":"wipes", "timeOnSearch":20, "itemtoSelect":11},
-    {"searchQuery":"chocolate", "timeOnSearch":145, "itemtoSelect":13},
-    {"searchQuery":"banana", "timeOnSearch":786, "itemtoSelect":92},
-    {"searchQuery":"apple", "timeOnSearch":134, "itemtoSelect":17},
-    {"searchQuery":"water bottle", "timeOnSearch":1661, "itemtoSelect":1}
+    {"searchQuery":"stylus", "itemtoSelect":41},
+    {"searchQuery":"wipes", "itemtoSelect":11},
+    {"searchQuery":"chocolate", "itemtoSelect":13},
+    {"searchQuery":"banana", "itemtoSelect":92},
+    {"searchQuery":"apple", "itemtoSelect":17},
+    {"searchQuery":"water bottle", "itemtoSelect":1}
 ]}
